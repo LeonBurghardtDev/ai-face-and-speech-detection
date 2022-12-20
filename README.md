@@ -6,21 +6,27 @@ This script uses the OpenCV, Azure Speech Recognition, gTTS, and VLC libraries t
 
 - OpenCV
 ```python
-pip install opencv-python```
+pip install opencv-python
+```
 - Azure Speech Recognition
 ```python
-pip install azure-cognitiveservices-speech```
+pip install azure-cognitiveservices-speech
+```
 - gTTS
 ```python
-pip install gTTS```
+pip install gTTS
+```
 - VLC
-```download https://www.videolan.org/vlc/download-windows.en-GB.html```
+```download https://www.videolan.org/vlc/download-windows.en-GB.html
+```
 - tkinter
 ```python
-pip install tk```
+pip install tk
+```
 - OpenAI API key
 ```python
-pip install openai```
+pip install openai
+```
 
 ## Usage
 

@@ -5,13 +5,25 @@ This script uses the OpenCV, Azure Speech Recognition, gTTS, and VLC libraries t
 ## Requirements
 
 - OpenCV
+```python
+pip install opencv-python```
 - Azure Speech Recognition
+```python
+pip install azure-cognitiveservices-speech```
 - gTTS
+```python
+pip install gTTS```
 - VLC
+```download https://www.videolan.org/vlc/download-windows.en-GB.html```
 - tkinter
+```python
+pip install tk```
 - OpenAI API key
+```python
+pip install openai```
 
 ## Usage
+
 
 1. Set the environment variable `azure_api_key` to your Azure API key.
 2. Set the environment variable `openai_api_key` to your OpenAI API key.

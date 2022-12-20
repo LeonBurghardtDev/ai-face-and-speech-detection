@@ -17,7 +17,8 @@ pip install azure-cognitiveservices-speech
 pip install gTTS
 ```
 - VLC
-```download https://www.videolan.org/vlc/download-windows.en-GB.html
+```python
+download https://www.videolan.org/vlc/download-windows.en-GB.html
 ```
 - tkinter
 ```python
